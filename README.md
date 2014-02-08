@@ -7,12 +7,11 @@ code is done in java script so for perfect resule in testing run it using xampp,
 
 It will give result as follow
 
-              Country ::  IN 
-              Country ::  India 
-                 City ::  Surat 
-               Region ::  09 
-               Region ::  Gujarat 
-             Latitude ::  20.9667 
-            Longitude ::  72.9000 
-               Postal ::  
- Country Calling Code ::  +91
+                  Country ::  IN 
+                  Country ::  India 
+                     City ::  Surat 
+                   Region ::  09 
+                   Region ::  Gujarat 
+                 Latitude ::  20.9667 
+                Longitude ::  72.9000
+     Country Calling Code ::  +91
