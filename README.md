@@ -14,4 +14,4 @@ It will give result as follow
                     State ::  Gujarat 
                  Latitude ::  20.9667 
                 Longitude ::  72.9000
-     Country Calling Code ::  +91
+     Country Calling Code ::  +92 
